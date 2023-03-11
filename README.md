@@ -1,1 +1,1 @@
-https://github.com/andreiartsiomenka/cssBayan/cssBayan/
+https://github.com/andreiartsiomenka/cssBayan/
