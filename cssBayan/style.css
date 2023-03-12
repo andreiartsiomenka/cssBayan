@@ -1,4 +1,4 @@
-/* Базовые стили демо-страницы */
+/* Базовые стили */
 * {
     margin: 0;
     padding: 0;
@@ -15,6 +15,7 @@
     font-size: 100%;
     line-height: 1.4;
     background: #fafafa;
+    text-align: center;
   }
   p{
     align-items: center;
@@ -83,7 +84,7 @@
   }    
   .container {
     margin: 55px auto;
-    max-width: 960px;
+    /* max-width: 960px; */
       padding: 1.5em;
   }   
   .info{
@@ -130,7 +131,7 @@
   /* меняем цвет фона у активного переключателя */
    
   .accordion_toggle:checked ~ .accordion_trigger {
-    background-color: #006bb3;
+    background-color: #05446e;
   }
    
   /**
